@@ -1,0 +1,6 @@
+{{#user}
+Name: Srikanth Sarma
+Skills: HTML, CSS, JS, React.js, Node,js, Python, Django.
+Email: vepasrikanthsarma@gmail.com
+{{/user}}
+
